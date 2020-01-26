@@ -1,0 +1,525 @@
+===16-10-2019===19:27:01=== 
+Repertoire 'Users' effacer le 16-10-2019 a 19:27:01 
+===============FIN LOGS=============== 
+=====16-10-2019=19:27:36===== 
+SIO1 - SUCCES : Repertoire cree Charpentier-Felicien-77-H-Agriculteur-43 
+SIO1 - SUCCES : Repertoire cree Durand-Orianne-87-F-Restaurateur-67 
+SIO1 - SUCCES : Repertoire cree Fournier-Felicien-71-H-Forestier-973 
+SIO1 - SUCCES : Repertoire cree Mercier-Nadette-16-F-Etudiant-974 
+SIO1 - SUCCES : Repertoire cree Vasseur-Gaspard-27-H-Radiologue-66 
+SIO1 - SUCCES : Repertoire cree Deschamps-Lea-82-F-Reporter-32 
+SIO1 - SUCCES : Repertoire cree Fabre-Hortense-69-F-Technicien-34 
+SIO1 - SUCCES : Repertoire cree Leroy-Arlette-26-F-Directeur-86 
+SIO1 - SUCCES : Repertoire cree Mercier-Violette-62-F-Viticulteur-47 
+SIO1 - SUCCES : Repertoire cree Lopez-Blandine-77-F-Policier-93 
+SIO1 - SUCCES : Repertoire cree Aubry-Lea-88-F-Technico-commercial-67 
+SIO1 - SUCCES : Repertoire cree Durand-Arlette-84-F-Militaire-57 
+SIO1 - SUCCES : Repertoire cree Dufour-Anselme-49-H-Instituteur-64 
+SIO1 - SUCCES : Repertoire cree Roussel-Zephirin-50-H-Game-designer 
+SIO1 - SUCCES : Repertoire cree Caron-Anselme-70-H-Ophtalmologue-63 
+SIO1 - SUCCES : Repertoire cree Petit-Blandine-26-F-Instituteur-56 
+SIO1 - SUCCES : Repertoire cree Brunet-Valentin-35-H-Policier-15 
+SIO1 - SUCCES : Repertoire cree Poirier-Felicien-45-H-Ingenieur-21 
+SIO1 - SUCCES : Repertoire cree Gonzalez-Joachim-55-H-Traducteur-20 
+SIO1 - SUCCES : Repertoire cree Moreau-Violette-17-F-Etudiant-17 
+SIO1 - SUCCES : Repertoire cree Perrin-Eve-67-F-Comptable-67 
+SIO1 - SUCCES : Repertoire cree Lambert-Oscar-46-H-Policier-971 
+SIO1 - SUCCES : Repertoire cree Blanc-Seraphin-35-H-Puericultrice-972 
+SIO1 - SUCCES : Repertoire cree Picard-Isidore-51-H-Chercheur-78 
+SIO1 - SUCCES : Repertoire cree Legrand-Kevin-55-H-Reporter-80 
+SIO1 - SUCCES : Repertoire cree Legrand-Jacinthe-75-F-Juge-94 
+SIO1 - SUCCES : Repertoire cree Henry-Rosalie-53-F-Notaire-83 
+SIO1 - SUCCES : Repertoire cree Marchand-Prudence-83-F-Biologiste-18 
+SIO1 - SUCCES : Repertoire cree Garcia-Nestor-69-H-Veterinaire-78 
+SIO1 - SUCCES : Repertoire cree Schmitt-Ines-22-F-Reporter-47 
+SIO1 - SUCCES : Repertoire cree Dupont-Rosalie-47-F-Enseignant-8 
+SIO1 - SUCCES : Repertoire cree Moreau-Urbain-85-H-Viticulteur-19 
+SIO1 - SUCCES : Repertoire cree Dupuis-Hector-24-H-Ornithologue-85 
+SIO1 - SUCCES : Repertoire cree Marchand-Tania-68-F-Journaliste-45 
+SIO1 - SUCCES : Repertoire cree Duval-Valentin-22-H-Technicien-28 
+SIO1 - SUCCES : Repertoire cree Duval-Violette-86-F-Puericultrice-91 
+SIO1 - SUCCES : Repertoire cree Perrot-Sylvaine-47-F-Reporter-59 
+SIO1 - SUCCES : Repertoire cree Deschamps-Felicien-49-H-Veterinaire-82 
+SIO1 - SUCCES : Repertoire cree Barbier-Clementine-46-F-Radiologue-26 
+SIO1 - SUCCES : Repertoire cree Lopez-Valentin-52-H-Documentaliste-88 
+SIO1 - SUCCES : Repertoire cree Aubry-Yolande-57-F-Radiologue-54 
+SIO1 - SUCCES : Repertoire cree Dupont-Urbain-26-H-Instituteur-23 
+SIO1 - SUCCES : Repertoire cree Legrand-Arlette-22-F-Forestier-974 
+SIO1 - SUCCES : Repertoire cree Meyer-Ines-83-F-Veterinaire-19 
+SIO1 - SUCCES : Repertoire cree Caron-Sylvaine-41-F-Vendeur-74 
+SIO1 - SUCCES : Repertoire cree Rousseau-Gaspard-50-H-Game-designer 
+SIO1 - SUCCES : Repertoire cree Lambert-Lea-54-F-Restaurateur-22 
+SIO1 - SUCCES : Repertoire cree Aubert-Axel-62-H-Instituteur-24 
+SIO1 - SUCCES : Repertoire cree Leroux-Zephirin-60-H-Botaniste-18 
+SIO1 - SUCCES : Repertoire cree Charpentier-Quentin-28-H-Botaniste-51 
+SIO1 - SUCCES : Repertoire cree Meunier-Barnabe-16-H-Etudiant-77 
+SIO1 - SUCCES : Repertoire cree Nguyen-Theodore-90-H-Puericultrice-971 
+SIO1 - SUCCES : Repertoire cree Lopez-Daphne-25-F-Restaurateur-61 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Wladimir-89-H-Directeur-78 
+SIO1 - SUCCES : Repertoire cree Leroux-Wladimir-90-H-Ornithologue-30 
+SIO1 - SUCCES : Repertoire premier doublon cree Lambert-Lea-70-F-Ingenieur-26 
+SIO1 - SUCCES : Repertoire cree Nguyen-Dimitri-44-H-Restaurateur-66 
+SIO1 - SUCCES : Repertoire cree Fernandez-Ursula-33-F-Puericultrice-80 
+SIO1 - SUCCES : Repertoire cree Marchand-Iris-28-F-Radiologue-87 
+SIO1 - SUCCES : Repertoire cree Vasseur-Karine-39-F-Traducteur-36 
+SIO1 - SUCCES : Repertoire cree Durand-Zephirin-38-H-Vendeur-73 
+SIO1 - SUCCES : Repertoire cree Marchand-Quentin-44-H-Reporter-31 
+SIO1 - SUCCES : Repertoire cree Sanchez-Violette-77-F-Policier-6 
+SIO1 - SUCCES : Repertoire cree Perrin-Oscar-65-H-Militaire-88 
+SIO1 - SUCCES : Repertoire cree Sanchez-Pâquerette-49-F-Veterinaire-91 
+SIO1 - SUCCES : Repertoire cree Legrand-Orianne-75-F-Maître-nageur 
+SIO1 - SUCCES : Repertoire cree Fournier-Violette-76-F-Policier-36 
+SIO1 - SUCCES : Repertoire cree Fabre-Karine-83-F-Juge-89 
+SIO1 - SUCCES : Repertoire cree Gaillard-Iris-71-F-Electrotechnicien-13 
+SIO1 - SUCCES : Repertoire cree Durand-Quentin-19-H-Etudiant-68 
+SIO1 - SUCCES : Repertoire cree Petit-Hector-26-H-Photographe-12 
+SIO1 - SUCCES : Repertoire cree Joly-Dimitri-85-H-Game-designer 
+SIO1 - SUCCES : Repertoire cree Dufour-Prudence-70-F-Puericultrice-76 
+SIO1 - SUCCES : Repertoire cree Poirier-Ernestine-17-F-Etudiant-42 
+SIO1 - SUCCES : Repertoire cree Aubry-Anselme-69-H-Comptable-40 
+SIO1 - SUCCES : Repertoire cree Mercier-Oscar-82-H-Oceanologue-16 
+SIO1 - SUCCES : Repertoire cree Charpentier-Isidore-64-H-Restaurateur-38 
+SIO1 - SUCCES : Repertoire cree Rousseau-Urbain-64-H-Enseignant-32 
+SIO1 - SUCCES : Repertoire cree Jacquet-Lea-85-F-Enseignant-10 
+SIO1 - SUCCES : Repertoire cree Meyer-Valentin-66-H-Botaniste-79 
+SIO1 - SUCCES : Repertoire cree Legrand-Alice-18-F-Etudiant-971 
+SIO1 - SUCCES : Repertoire cree Schmitt-Nestor-32-H-Comptable-38 
+SIO1 - SUCCES : Repertoire cree Perrot-Daphne-44-F-Policier-80 
+SIO1 - SUCCES : Repertoire cree Morel-Felicien-22-H-Webmaster-50 
+SIO1 - SUCCES : Repertoire cree Berger-Quentin-51-H-Pediatre-13 
+SIO1 - SUCCES : Repertoire cree Meyer-Joachim-61-H-Medecin-43 
+SIO1 - SUCCES : Repertoire cree Blanc-Eve-50-F-Redacteur-66 
+SIO1 - SUCCES : Repertoire cree Meunier-Zephirin-82-H-Traducteur-30 
+SIO1 - SUCCES : Repertoire premier doublon cree Aubert-Axel-76-H-Medecin-27 
+SIO1 - SUCCES : Repertoire cree Dubois-Myrtille-48-F-Pediatre-73 
+SIO1 - SUCCES : Repertoire cree Duval-Anselme-54-H-Game-designer 
+SIO1 - SUCCES : Repertoire cree Meunier-Blandine-32-F-Sage-femme-3 
+SIO1 - SUCCES : Repertoire cree Garcia-Axel-30-H-Horticulteur-42 
+SIO1 - SUCCES : Repertoire cree Dupuis-Anselme-73-H-Instituteur-48 
+SIO1 - SUCCES : Repertoire cree Dupuis-Philemon-86-H-Botaniste-65 
+SIO1 - SUCCES : Repertoire cree Leroy-Alice-74-F-Instituteur-90 
+SIO1 - SUCCES : Repertoire cree Dufour-Clementine-34-F-Comptable-51 
+SIO1 - SUCCES : Repertoire cree Deschamps-Anselme-34-H-Maître-nageur 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Romeo-38-H-Ophtalmologue-33 
+SIO1 - SUCCES : Repertoire cree Blanc-Ines-69-F-Veterinaire-67 
+SIO1 - SUCCES : Repertoire cree Moulin-Hector-89-H-Horticulteur-89 
+SIO1 - SUCCES : Repertoire cree Joly-Daphne-58-F-Vendeur-63 
+SIO1 - SUCCES : Repertoire cree Brunet-Prudence-39-F-Agriculteur-90 
+SIO1 - SUCCES : Repertoire cree Leroy-Romeo-19-H-Etudiant-20 
+SIO1 - SUCCES : Repertoire cree Aubert-Gaspard-19-H-Etudiant-20 
+SIO1 - SUCCES : Repertoire cree Gonzalez-Arlette-55-F-Juge-83 
+SIO1 - SUCCES : Repertoire cree Morel-Iris-19-F-Etudiant-31 
+SIO1 - SUCCES : Repertoire cree Marchand-Theodore-22-H-Ophtalmologue-27 
+SIO1 - SUCCES : Repertoire cree Petit-Fanchon-22-F-Restaurateur-94 
+SIO1 - SUCCES : Repertoire cree Barbier-Hortense-35-F-Sociologue-42 
+SIO1 - SUCCES : Repertoire cree Lopez-Eleonore-25-F-Infirmier-16 
+SIO1 - SUCCES : Repertoire cree Leroux-Oscar-37-H-Restaurateur-25 
+SIO1 - SUCCES : Repertoire cree Boyer-Loup-33-H-Notaire-57 
+SIO1 - SUCCES : Repertoire cree Roussel-Daphne-51-F-Juge-66 
+SIO1 - SUCCES : Repertoire cree Perrot-Valentin-74-H-Webmaster-74 
+SIO1 - SUCCES : Repertoire premier doublon cree Marchand-Iris-53-F-Technico-commercial-21 
+SIO1 - SUCCES : Repertoire cree Mercier-Gaspard-71-H-Viticulteur-20 
+SIO1 - SUCCES : Repertoire cree Barbier-Axel-54-H-Technicien-62 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Theodore-28-H-Sage-femme-73 
+SIO1 - SUCCES : Repertoire cree Meunier-Fanchon-31-F-Radiologue-973 
+SIO1 - SUCCES : Repertoire cree Fabre-Loup-78-H-Instituteur-9 
+SIO1 - SUCCES : Repertoire cree Rousseau-Oscar-88-H-Biologiste-7 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Ursula-33-F-Agriculteur-8 
+SIO1 - SUCCES : Repertoire cree Leroux-Daphne-87-F-Documentaliste-68 
+SIO1 - SUCCES : Repertoire cree Vasseur-Isidore-38-H-Restaurateur-43 
+SIO1 - SUCCES : Repertoire cree Roussel-Eugenie-20-F-Sapeur-pompier-14 
+SIO1 - SUCCES : Repertoire cree Fernandez-Rosalie-24-F-Notaire-3 
+SIO1 - SUCCES : Repertoire cree Lambert-Marin-42-H-Vendeur-16 
+SIO1 - SUCCES : Repertoire cree Rousseau-Clementine-71-F-Botaniste-44 
+SIO1 - SUCCES : Repertoire cree Mercier-Barnabe-82-H-Biologiste-23 
+SIO1 - SUCCES : Repertoire cree Nguyen-Seraphin-24-H-Juge-1 
+SIO1 - SUCCES : Repertoire cree Henry-Nadette-27-F-Juge-18 
+SIO1 - SUCCES : Repertoire cree Petit-Violette-33-F-Avocat-8 
+SIO1 - SUCCES : Repertoire cree Dufour-Daphne-72-F-Volcanologue-3 
+SIO1 - SUCCES : Repertoire cree Royer-Marin-36-H-Forestier-3 
+SIO1 - SUCCES : Repertoire cree Lecomte-Nadette-77-F-Geologue-30 
+SIO1 - SUCCES : Repertoire cree Vasseur-Eleonore-28-F-Traducteur-1 
+SIO1 - SUCCES : Repertoire cree Leroy-Yolande-65-F-Pharmacien-43 
+SIO1 - SUCCES : Repertoire premier doublon cree Moreau-Violette-63-F-Technico-commercial-49 
+SIO1 - SUCCES : Repertoire cree Gonzalez-Blandine-77-F-Redacteur-43 
+SIO1 - SUCCES : Repertoire cree Aubry-Hortense-17-F-Etudiant-81 
+SIO1 - SUCCES : Repertoire cree Collet-Karine-29-F-Instituteur-81 
+SIO1 - SUCCES : Repertoire cree Renard-Eugenie-18-F-Etudiant-40 
+SIO1 - SUCCES : Repertoire cree Poirier-Karine-38-F-Libraire-2 
+SIO1 - SUCCES : Repertoire cree Renard-Arlette-81-F-Enseignant-1 
+SIO1 - SUCCES : Repertoire cree Berger-Sylvaine-80-F-Sapeur-pompier-86 
+SIO1 - SUCCES : Repertoire cree Moulin-Ernestine-71-F-Enseignant-81 
+SIO1 - SUCCES : Repertoire cree Morel-Romeo-37-H-Veterinaire-8 
+SIO1 - SUCCES : Repertoire cree Aubry-Urbain-55-H-Volcanologue-13 
+SIO1 - SUCCES : Repertoire cree Durand-Tania-37-F-Comptable-54 
+SIO1 - SUCCES : Repertoire cree Petit-Joachim-71-H-Game-designer 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Tania-22-F-Ornithologue-5 
+SIO1 - SUCCES : Repertoire cree Moulin-Karine-79-F-Oceanologue-12 
+SIO1 - SUCCES : Repertoire cree Moulin-Tania-87-F-Forestier-15 
+SIO1 - SUCCES : Repertoire cree Collet-Wladimir-77-H-Reporter-79 
+SIO1 - SUCCES : Repertoire cree Dupuis-Romeo-19-H-Etudiant-7 
+SIO1 - SUCCES : Repertoire cree Gaillard-Sylvaine-27-F-Policier-93 
+SIO1 - SUCCES : Repertoire cree Roussel-Alice-30-F-Oceanologue-36 
+SIO1 - SUCCES : Repertoire premier doublon cree Fabre-Karine-43-F-Pharmacien-46 
+SIO1 - SUCCES : Repertoire cree Perrot-Isidore-37-H-Pharmacien-90 
+SIO1 - SUCCES : Repertoire cree Deschamps-Alice-66-F-Game-designer 
+SIO1 - SUCCES : Repertoire cree Leroux-Nadette-26-F-Ingenieur-55 
+SIO1 - SUCCES : Repertoire cree Leroy-Ernestine-25-F-Technicien-19 
+SIO1 - SUCCES : Repertoire cree Blanc-Hector-61-H-Redacteur-4 
+SIO1 - SUCCES : Repertoire cree Picard-Theodore-46-H-Botaniste-29 
+SIO1 - SUCCES : Repertoire cree Rodriguez-Karine-25-F-Avocat-82 
+SIO1 - SUCCES : Repertoire cree Boyer-Isidore-66-H-Agriculteur-71 
+SIO1 - SUCCES : Repertoire cree Fernandez-Alice-31-F-Enseignant-51 
+SIO1 - SUCCES : Repertoire cree Brunet-Violette-61-F-Ingenieur-57 
+SIO1 - SUCCES : Repertoire cree Moulin-Pâquerette-44-F-Veterinaire-60 
+SIO1 - SUCCES : Repertoire cree Petit-Ines-81-F-Veterinaire-93 
+SIO1 - SUCCES : Repertoire cree Lambert-Sylvaine-43-F-Maître-nageur 
+SIO1 - SUCCES : Repertoire premier doublon cree Morel-Romeo-41-H-Ophtalmologue-26 
+SIO1 - SUCCES : Repertoire cree Gaillard-Eugenie-51-F-Forestier-4 
+SIO1 - SUCCES : Repertoire cree Rodriguez-Alice-25-F-Journaliste-27 
+SIO1 - SUCCES : Repertoire cree Lecomte-Sylvaine-73-F-Psychologue-60 
+SIO1 - SUCCES : Repertoire cree Aubry-Dimitri-26-H-Redacteur-43 
+SIO1 - SUCCES : Repertoire cree Nguyen-Romeo-49-H-Comptable-32 
+SIO1 - SUCCES : Repertoire cree Fabre-Violette-75-F-Agriculteur-2 
+SIO1 - SUCCES : Repertoire cree Aubry-Eve-59-F-Webmaster-8 
+SIO1 - SUCCES : Repertoire cree Nguyen-Marin-45-H-Juge-5 
+SIO1 - SUCCES : Repertoire cree Lecomte-Karine-86-F-Viticulteur-92 
+SIO1 - SUCCES : Repertoire premier doublon cree Moulin-Tania-38-F-Ingenieur-35 
+SIO1 - SUCCES : Repertoire cree Jacquet-Seraphin-20-H-Psychologue-13 
+SIO1 - SUCCES : Repertoire cree Joly-Karine-37-F-Chercheur-39 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Felicien-34-H-Horticulteur-90 
+SIO1 - SUCCES : Repertoire cree Morel-Ernestine-55-F-Technicien-15 
+SIO1 - SUCCES : Repertoire cree Rousseau-Blandine-60-F-Ingenieur-47 
+SIO1 - SUCCES : Repertoire cree Caron-Ursula-20-F-Sapeur-pompier-973 
+SIO1 - SUCCES : Repertoire cree Rodriguez-Jacinthe-79-F-Restaurateur-78 
+SIO1 - SUCCES : Repertoire cree Boyer-Tania-18-F-Etudiant-91 
+SIO1 - SUCCES : Repertoire cree Gaillard-Myrtille-26-F-Technico-commercial-46 
+SIO1 - SUCCES : Repertoire cree Vasseur-Ines-49-F-Maître-nageur 
+SIO1 - SUCCES : Repertoire cree Poirier-Alice-22-F-Journaliste-68 
+SIO1 - SUCCES : Repertoire cree Blanc-Rosalie-51-F-Viticulteur-8 
+SIO1 - SUCCES : Repertoire cree Gonzalez-Emile-17-H-Etudiant-18 
+SIO1 - SUCCES : Repertoire cree Duval-Yvon-88-H-Medecin-59 
+SIO1 - SUCCES : Repertoire cree Picard-Prudence-60-F-Volcanologue-94 
+SIO1 - SUCCES : Repertoire cree Lopez-Seraphin-22-H-Vendeur-68 
+SIO1 - SUCCES : Repertoire cree Bourgeois-Nestor-73-H-Militaire-72 
+SIO1 - SUCCES : Repertoire cree Lecomte-Dimitri-84-H-Directeur-32 
+SIO1 - SUCCES : Repertoire cree Schmitt-Dimitri-35-H-Psychologue-14 
+SIO1 - SUCCES : Repertoire cree Deschamps-Nestor-40-H-Chercheur-31 
+SIO1 - SUCCES : Repertoire cree Aubert-Ernestine-32-F-Instituteur-19 
+SIO1 - SUCCES : Repertoire cree Royer-Oscar-75-H-Infirmier-39 
+SIO1 - SUCCES : Repertoire cree Blanc-Arlette-29-F-Instituteur-77 
+SIO1 - SUCCES : Repertoire cree Aubert-Karine-59-F-Infirmier-38 
+SIO1 - SUCCES : Repertoire cree Moreau-Loup-47-H-Documentaliste-48 
+SIO1 - SUCCES : Repertoire cree Joly-Emile-17-H-Etudiant-79 
+SIO1 - SUCCES : Repertoire premier doublon cree Legrand-Kevin-58-H-Puericultrice-29 
+SIO1 - SUCCES : Repertoire cree Dupuis-Seraphin-34-H-Chercheur-67 
+SIO1 - SUCCES : Repertoire cree Meunier-Jacinthe-70-F-Photographe-88 
+SIO1 - SUCCES : Repertoire cree Brunet-Gaspard-62-H-Viticulteur-973 
+SIO1 - SUCCES : Repertoire cree Durand-Theodore-82-H-Pediatre-51 
+SIO1 - SUCCES : Repertoire cree Dupont-Barnabe-81-H-Infirmier-92 
+SIO1 - SUCCES : Repertoire cree Dupuis-Valentin-42-H-Volcanologue-92 
+SIO1 - SUCCES : Repertoire cree Charpentier-Karine-78-F-Vendeur-29 
+SIO1 - SUCCES : Repertoire cree Dupont-Gaspard-28-H-Volcanologue-13 
+SIO1 - SUCCES : Repertoire cree Roussel-Fanchon-65-F-Chercheur-75 
+SIO1 - SUCCES : Repertoire cree Collet-Dimitri-16-H-Etudiant-33 
+SIO1 - SUCCES : Repertoire cree Petit-Gaspard-23-H-Photographe-54 
+SIO1 - SUCCES : Repertoire cree Marchand-Myrtille-20-F-Sapeur-pompier-6 
+SIO1 - SUCCES : Repertoire cree Charpentier-Nadette-32-F-Sociologue-14 
+SIO1 - SUCCES : Repertoire cree Vasseur-Violette-77-F-Avocat-66 
+SIO1 - SUCCES : Repertoire cree Dubois-Eleonore-63-F-Ophtalmologue-75 
+SIO1 - SUCCES : Repertoire cree Jacquet-Theodore-37-H-Horticulteur-92 
+SIO1 - SUCCES : Repertoire cree Durand-Marin-64-H-Pharmacien-30 
+SIO1 - SUCCES : Repertoire cree Rousseau-Myrtille-24-F-Radiologue-36 
+SIO1 - SUCCES : Repertoire cree Caron-Eugenie-18-F-Etudiant-78 
+SIO1 - SUCCES : Repertoire cree Gaillard-Karine-21-F-Notaire-24 
+SIO1 - SUCCES : Repertoire cree Collet-Joachim-89-H-Infirmier-54 
+SIO1 - SUCCES : Repertoire cree Jacquet-Eve-42-F-Sage-femme-51 
+SIO1 - SUCCES : Repertoire cree Fernandez-Daphne-78-F-Militaire-31 
+SIO1 - SUCCES : Repertoire cree Leroy-Xavier-43-H-Botaniste-70 
+SIO1 - SUCCES : Repertoire cree Leroux-Rosalie-90-F-Puericultrice-33 
+SIO2 - SUCCES : Repertoire cree Rodriguez-Theodore-65-H-Sapeur-pompier-50 
+SIO2 - SUCCES : Repertoire cree Fabre-Eugenie-73-F-Oceanologue-18 
+SIO2 - SUCCES : Repertoire cree Leroux-Quentin-42-H-Traducteur-5 
+SIO2 - SUCCES : Repertoire cree Lambert-Karine-49-F-Traducteur-33 
+SIO2 - SUCCES : Repertoire cree Legrand-Emile-41-H-Sociologue-4 
+SIO2 - SUCCES : Repertoire cree Dubois-Theodore-62-H-Technicien-33 
+SIO2 - SUCCES : Repertoire premier doublon cree Moulin-Ernestine-21-F-Medecin-48 
+SIO2 - SUCCES : Repertoire cree Leroy-Ines-76-F-Infirmier-26 
+SIO2 - SUCCES : Repertoire cree Duval-Urbain-77-H-Botaniste-973 
+SIO2 - SUCCES : Repertoire cree Dubois-Valentin-26-H-Electrotechnicien-70 
+SIO2 - SUCCES : Repertoire cree Duval-Philemon-58-H-Pharmacien-19 
+SIO2 - SUCCES : Repertoire cree Aubert-Myrtille-42-F-Radiologue-81 
+SIO2 - SUCCES : Repertoire cree Lopez-Ines-49-F-Sage-femme-49 
+SIO2 - SUCCES : Repertoire cree Dubois-Violette-35-F-Chercheur-85 
+SIO2 - SUCCES : Repertoire cree Dufour-Wladimir-57-H-Electrotechnicien-61 
+SIO2 - SUCCES : Repertoire cree Poirier-Eugenie-83-F-Vendeur-63 
+SIO2 - SUCCES : Repertoire cree Duval-Rosalie-48-F-Ornithologue-16 
+SIO2 - SUCCES : Repertoire cree Meunier-Romeo-89-H-Journaliste-70 
+SIO2 - SUCCES : Repertoire cree Fournier-Sylvaine-83-F-Infirmier-78 
+SIO2 - SUCCES : Repertoire cree Masson-Rosalie-87-F-Libraire-52 
+SIO2 - SUCCES : Repertoire cree Sanchez-Oscar-51-H-Biologiste-41 
+SIO2 - SUCCES : Repertoire cree Gaillard-Urbain-85-H-Ingenieur-15 
+SIO2 - SUCCES : Repertoire cree Perrin-Zephirin-80-H-Agriculteur-33 
+SIO2 - SUCCES : Repertoire cree Aubert-Marin-59-H-Policier-85 
+SIO2 - SUCCES : Repertoire cree Schmitt-Anselme-42-H-Sapeur-pompier-52 
+SIO2 - SUCCES : Repertoire cree Blanc-Eleonore-41-F-Policier-73 
+SIO2 - SUCCES : Repertoire cree Gaillard-Daphne-55-F-Traducteur-92 
+SIO2 - SUCCES : Repertoire cree Blanc-Fanchon-69-F-Psychologue-52 
+SIO2 - SUCCES : Repertoire cree Roussel-Nadette-22-F-Pharmacien-81 
+SIO2 - SUCCES : Repertoire cree Meyer-Nadette-31-F-Puericultrice-94 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Loup-41-H-Veterinaire-90 
+SIO2 - SUCCES : Repertoire cree Caron-Tania-35-F-Puericultrice-20 
+SIO2 - SUCCES : Repertoire cree Mercier-Ursula-73-F-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Lea-41-F-Directeur-14 
+SIO2 - SUCCES : Repertoire cree Picard-Hector-22-H-Comptable-78 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Axel-69-H-Oceanologue-31 
+SIO2 - SUCCES : Repertoire cree Picard-Ursula-76-F-Sapeur-pompier-29 
+SIO2 - SUCCES : Repertoire cree Gaillard-Axel-35-H-Ingenieur-88 
+SIO2 - SUCCES : Repertoire cree Morel-Zephirin-39-H-Sapeur-pompier-32 
+SIO2 - SUCCES : Repertoire cree Brunet-Clovis-62-H-Instituteur-55 
+SIO2 - SUCCES : Repertoire cree Fabre-Wladimir-71-H-Webmaster-20 
+SIO2 - SUCCES : Repertoire cree Lambert-Xavier-56-H-Ophtalmologue-67 
+SIO2 - SUCCES : Repertoire cree Legrand-Isidore-51-H-Photographe-93 
+SIO2 - SUCCES : Repertoire cree Fernandez-Romeo-60-H-Technicien-30 
+SIO2 - SUCCES : Repertoire cree Marchand-Ernestine-24-F-Traducteur-23 
+SIO2 - SUCCES : Repertoire cree Sanchez-Karine-56-F-Forestier-55 
+SIO2 - SUCCES : Repertoire cree Perrot-Xavier-77-H-Traducteur-16 
+SIO2 - SUCCES : Repertoire cree Dupont-Seraphin-41-H-Webmaster-73 
+SIO2 - SUCCES : Repertoire cree Leroy-Tania-80-F-Volcanologue-37 
+SIO2 - SUCCES : Repertoire cree Leroy-Prudence-22-F-Sociologue-94 
+SIO2 - SUCCES : Repertoire cree Aubert-Ursula-53-F-Veterinaire-74 
+SIO2 - SUCCES : Repertoire cree Vasseur-Kevin-28-H-Viticulteur-974 
+SIO2 - SUCCES : Repertoire cree Boyer-Nadette-60-F-Webmaster-5 
+SIO2 - SUCCES : Repertoire cree Lopez-Axel-31-H-Botaniste-11 
+SIO2 - SUCCES : Repertoire cree Joly-Jacinthe-49-F-Webmaster-48 
+SIO2 - SUCCES : Repertoire cree Roussel-Hector-59-H-Comptable-39 
+SIO2 - SUCCES : Repertoire cree Schmitt-Axel-19-H-Etudiant-8 
+SIO2 - SUCCES : Repertoire premier doublon cree Rousseau-Oscar-40-H-Instituteur-29 
+SIO2 - SUCCES : Repertoire cree Garcia-Arlette-86-F-Traducteur-18 
+SIO2 - SUCCES : Repertoire cree Lopez-Isidore-59-H-Radiologue-48 
+SIO2 - SUCCES : Repertoire cree Dupuis-Prudence-43-F-Psychologue-83 
+SIO2 - SUCCES : Repertoire cree Rodriguez-Hortense-23-F-Photographe-31 
+SIO2 - SUCCES : Repertoire cree Masson-Barnabe-39-H-Botaniste-95 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Iris-86-F-Psychologue-35 
+SIO2 - SUCCES : Repertoire cree Masson-Ursula-44-F-Militaire-40 
+SIO2 - SUCCES : Repertoire cree Morel-Nestor-30-H-Puericultrice-971 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Eve-54-F-Agriculteur-85 
+SIO2 - SUCCES : Repertoire premier doublon cree Joly-Jacinthe-35-F-Veterinaire-1 
+SIO2 - SUCCES : Repertoire cree Dupont-Clementine-49-F-Botaniste-49 
+SIO2 - SUCCES : Repertoire cree Fabre-Kevin-44-H-Avocat-84 
+SIO2 - SUCCES : Repertoire cree Morel-Marin-32-H-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Rodriguez-Romeo-29-H-Horticulteur-68 
+SIO2 - SUCCES : Repertoire premier doublon cree Aubry-Eve-27-F-Notaire-74 
+SIO2 - SUCCES : Repertoire cree Vasseur-Arlette-22-F-Juge-66 
+SIO2 - SUCCES : Repertoire cree Jacquet-Karine-22-F-Oceanologue-80 
+SIO2 - SUCCES : Repertoire cree Durand-Eleonore-40-F-Medecin-68 
+SIO2 - SUCCES : Repertoire cree Dufour-Orianne-43-F-Webmaster-8 
+SIO2 - SUCCES : Repertoire cree Royer-Lea-74-F-Ophtalmologue-87 
+SIO2 - SUCCES : Repertoire premier doublon cree Perrin-Zephirin-81-H-Libraire-86 
+SIO2 - SUCCES : Repertoire cree Lecomte-Isidore-53-H-Oceanologue-89 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Fanchon-16-F-Etudiant-36 
+SIO2 - SUCCES : Repertoire cree Rousseau-Karine-51-F-Avocat-64 
+SIO2 - SUCCES : Repertoire cree Fournier-Quentin-88-H-Maître-nageur 
+SIO2 - SUCCES : Repertoire premier doublon cree Gonzalez-Axel-67-H-Redacteur-94 
+SIO2 - SUCCES : Repertoire premier doublon cree Roussel-Clementine-84-F-Pharmacien-61 
+SIO2 - SUCCES : Repertoire cree Meyer-Barnabe-53-H-Horticulteur-83 
+SIO2 - SUCCES : Repertoire cree Sanchez-Xavier-32-H-Sapeur-pompier-23 
+SIO2 - SUCCES : Repertoire cree Duval-Clementine-44-F-Avocat-40 
+SIO2 - SUCCES : Repertoire cree Jacquet-Felicien-33-H-Chercheur-49 
+SIO2 - SUCCES : Repertoire cree Rousseau-Yolande-21-F-Chercheur-32 
+SIO2 - SUCCES : Repertoire cree Legrand-Rosalie-40-F-Forestier-81 
+SIO2 - SUCCES : Repertoire cree Jacquet-Xavier-73-H-Photographe-44 
+SIO2 - SUCCES : Repertoire cree Barbier-Barnabe-82-H-Militaire-4 
+SIO2 - SUCCES : Repertoire cree Royer-Zephirin-67-H-Militaire-78 
+SIO2 - SUCCES : Repertoire cree Fernandez-Oscar-88-H-Electrotechnicien-25 
+SIO2 - SUCCES : Repertoire cree Picard-Seraphin-33-H-Ophtalmologue-36 
+SIO2 - SUCCES : Repertoire cree Durand-Ernestine-25-F-Volcanologue-48 
+SIO2 - SUCCES : Repertoire cree Moreau-Eve-68-F-Enseignant-46 
+SIO2 - SUCCES : Repertoire cree Poirier-Blandine-73-F-Policier-3 
+SIO2 - SUCCES : Repertoire cree Charpentier-Arlette-82-F-Redacteur-42 
+SIO2 - SUCCES : Repertoire cree Lopez-Clovis-25-H-Ornithologue-73 
+SIO2 - SUCCES : Repertoire cree Aubry-Xavier-58-H-Game-designer 
+SIO2 - SUCCES : Repertoire cree Lopez-Jacinthe-32-F-Geologue-34 
+SIO2 - SUCCES : Repertoire cree Lecomte-Urbain-49-H-Psychologue-46 
+SIO2 - SUCCES : Repertoire cree Picard-Jacinthe-54-F-Medecin-93 
+SIO2 - SUCCES : Repertoire cree Petit-Oscar-65-H-Enseignant-86 
+SIO2 - SUCCES : Repertoire premier doublon cree Bourgeois-Theodore-87-H-Viticulteur-90 
+SIO2 - SUCCES : Repertoire cree Dubois-Urbain-30-H-Journaliste-33 
+SIO2 - SUCCES : Repertoire cree Poirier-Marin-59-H-Medecin-973 
+SIO2 - SUCCES : Repertoire cree Vasseur-Nestor-33-H-Sage-femme-93 
+SIO2 - SUCCES : Repertoire cree Dupont-Ines-26-F-Pediatre-32 
+SIO2 - SUCCES : Repertoire premier doublon cree Perrin-Daphne-35-F-Agriculteur-52 
+SIO2 - SUCCES : Repertoire cree Rousseau-Dimitri-46-H-Medecin-27 
+SIO2 - SUCCES : Repertoire cree Charpentier-Nestor-76-H-Ophtalmologue-2 
+SIO2 - SUCCES : Repertoire cree Deschamps-Prudence-52-F-Ingenieur-62 
+SIO2 - SUCCES : Repertoire cree Nguyen-Yolande-35-F-Traducteur-23 
+SIO2 - SUCCES : Repertoire premier doublon cree Nguyen-Dimitri-49-H-Electrotechnicien-72 
+SIO2 - SUCCES : Repertoire cree Rousseau-Kevin-89-H-Chercheur-62 
+SIO2 - SUCCES : Repertoire cree Henry-Tania-81-F-Agriculteur-29 
+SIO2 - SUCCES : Repertoire cree Moulin-Theodore-25-H-Game-designer 
+SIO2 - SUCCES : Repertoire cree Durand-Fanchon-73-F-Radiologue-65 
+SIO2 - SUCCES : Repertoire cree Masson-Oscar-39-H-Radiologue-92 
+SIO2 - SUCCES : Repertoire cree Dufour-Gwendoline-72-F-Photographe-53 
+SIO2 - SUCCES : Repertoire cree Schmitt-Fanchon-43-F-Chercheur-18 
+SIO2 - SUCCES : Repertoire premier doublon cree Moreau-Zephirin-61-H-Puericultrice-24 
+SIO2 - SUCCES : Repertoire cree Dupont-Eleonore-39-F-Pharmacien-11 
+SIO2 - SUCCES : Repertoire cree Royer-Yolande-55-F-Horticulteur-75 
+SIO2 - SUCCES : Repertoire cree Fournier-Urbain-72-H-Vendeur-91 
+SIO2 - SUCCES : Repertoire cree Fournier-Karine-47-F-Botaniste-27 
+SIO2 - SUCCES : Repertoire cree Fabre-Felicien-83-H-Pediatre-66 
+SIO2 - SUCCES : Repertoire premier doublon cree Berger-Quentin-18-H-Etudiant-38 
+SIO2 - SUCCES : Repertoire cree Sanchez-Gaspard-36-H-Infirmier-73 
+SIO2 - SUCCES : Repertoire cree Dupont-Jacinthe-17-F-Etudiant-83 
+SIO2 - SUCCES : Repertoire cree Aubert-Quentin-61-H-Photographe-47 
+SIO2 - SUCCES : Repertoire cree Gaillard-Barnabe-37-H-Game-designer 
+SIO2 - SUCCES : Repertoire cree Poirier-Prudence-72-F-Reporter-34 
+SIO2 - SUCCES : Repertoire cree Morel-Clementine-19-F-Etudiant-31 
+SIO2 - SUCCES : Repertoire cree Dubois-Clementine-78-F-Instituteur-71 
+SIO2 - SUCCES : Repertoire cree Joly-Iris-64-F-Electrotechnicien-49 
+SIO2 - SUCCES : Repertoire premier doublon cree Jacquet-Lea-70-F-Libraire-63 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Gwendoline-39-F-Comptable-46 
+SIO2 - SUCCES : Repertoire cree Charpentier-Rosalie-41-F-Redacteur-68 
+SIO2 - SUCCES : Repertoire cree Durand-Joachim-61-H-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Schmitt-Ursula-89-F-Forestier-70 
+SIO2 - SUCCES : Repertoire cree Dufour-Isidore-41-H-Psychologue-82 
+SIO2 - SUCCES : Repertoire cree Jacquet-Daphne-50-F-Militaire-50 
+SIO2 - SUCCES : Repertoire cree Royer-Eleonore-35-F-Electrotechnicien-64 
+SIO2 - SUCCES : Repertoire premier doublon cree Blanc-Rosalie-57-F-Technicien-82 
+SIO2 - SUCCES : Repertoire cree Moulin-Alice-53-F-Traducteur-56 
+SIO2 - SUCCES : Repertoire cree Caron-Felicien-89-H-Viticulteur-16 
+SIO2 - SUCCES : Repertoire cree Barbier-Isidore-65-H-Restaurateur-5 
+SIO2 - SUCCES : Repertoire premier doublon cree Dubois-Violette-43-F-Militaire-4 
+SIO2 - SUCCES : Repertoire cree Dubois-Romeo-35-H-Documentaliste-89 
+SIO2 - SUCCES : Repertoire cree Moulin-Zephirin-47-H-Botaniste-77 
+SIO2 - SUCCES : Repertoire cree Charpentier-Zephirin-38-H-Viticulteur-66 
+SIO2 - SUCCES : Repertoire cree Renard-Anselme-45-H-Game-designer 
+SIO2 - SUCCES : Repertoire cree Perrin-Axel-75-H-Puericultrice-42 
+SIO2 - SUCCES : Repertoire premier doublon cree Sanchez-Gaspard-51-H-Libraire-79 
+SIO2 - SUCCES : Repertoire cree Berger-Nadette-70-F-Veterinaire-32 
+SIO2 - SUCCES : Repertoire cree Caron-Emile-54-H-Pharmacien-60 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Daphne-50-F-Juge-35 
+SIO2 - SUCCES : Repertoire premier doublon cree Perrot-Isidore-49-H-Instituteur-4 
+SIO2 - SUCCES : Repertoire premier doublon cree Dupuis-Hector-57-H-Libraire-46 
+SIO2 - SUCCES : Repertoire cree Collet-Arlette-18-F-Etudiant-39 
+SIO2 - SUCCES : Repertoire cree Legrand-Gwendoline-59-F-Instituteur-20 
+SIO2 - SUCCES : Repertoire cree Meyer-Marin-45-H-Restaurateur-36 
+SIO2 - SUCCES : Repertoire cree Barbier-Lea-84-F-Ingenieur-16 
+SIO2 - SUCCES : Repertoire premier doublon cree Leroux-Arlette-79-F-Directeur-59 
+SIO2 - SUCCES : Repertoire cree Dupont-Xavier-74-H-Game-designer 
+SIO2 - SUCCES : Repertoire cree Meunier-Tania-77-F-Avocat-16 
+SIO2 - SUCCES : Repertoire cree Blanc-Pâquerette-73-F-Viticulteur-5 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Isidore-44-H-Electrotechnicien-57 
+SIO2 - SUCCES : Repertoire cree Duval-Xavier-53-H-Horticulteur-50 
+SIO2 - SUCCES : Repertoire cree Renard-Iris-66-F-Notaire-28 
+SIO2 - SUCCES : Repertoire cree Boyer-Zephirin-75-H-Webmaster-73 
+SIO2 - SUCCES : Repertoire cree Perrin-Ursula-41-F-Avocat-92 
+SIO2 - SUCCES : Repertoire cree Collet-Axel-83-H-Redacteur-27 
+SIO2 - SUCCES : Repertoire cree Moreau-Isidore-47-H-Technico-commercial-42 
+SIO2 - SUCCES : Repertoire cree Collet-Eleonore-54-F-Geologue-19 
+SIO2 - SUCCES : Repertoire premier doublon cree Jacquet-Eve-22-F-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Schmitt-Sylvaine-65-F-Psychologue-38 
+SIO2 - SUCCES : Repertoire cree Fournier-Valentin-17-H-Etudiant-85 
+SIO2 - SUCCES : Repertoire cree Duval-Orianne-41-F-Game-designer 
+SIO2 - SUCCES : Repertoire cree Henry-Nestor-18-H-Etudiant-974 
+SIO2 - SUCCES : Repertoire cree Renard-Eve-23-F-Volcanologue-48 
+SIO2 - SUCCES : Repertoire cree Nguyen-Eve-49-F-Enseignant-11 
+SIO2 - SUCCES : Repertoire cree Duval-Eve-22-F-Juge-5 
+SIO2 - SUCCES : Repertoire cree Perrin-Rosalie-70-F-Documentaliste-69 
+SIO2 - SUCCES : Repertoire cree Caron-Loup-87-H-Medecin-26 
+SIO2 - SUCCES : Repertoire cree Durand-Xavier-79-H-Medecin-73 
+SIO2 - SUCCES : Repertoire cree Dufour-Violette-79-F-Forestier-9 
+SIO2 - SUCCES : Repertoire cree Leroy-Axel-87-H-Sage-femme-58 
+SIO2 - SUCCES : Repertoire cree Meyer-Sylvaine-30-F-Puericultrice-55 
+SIO2 - SUCCES : Repertoire premier doublon cree Dufour-Clementine-67-F-Radiologue-68 
+SIO2 - SUCCES : Repertoire cree Boyer-Jacinthe-57-F-Infirmier-82 
+SIO2 - SUCCES : Repertoire deuxieme doublon cree Morel-Zephirin-65-H-Oceanologue-19 
+SIO2 - SUCCES : Repertoire cree Henry-Kevin-53-H-Vendeur-5 
+SIO2 - SUCCES : Repertoire cree Boyer-Marin-17-H-Etudiant-69 
+SIO2 - SUCCES : Repertoire premier doublon cree Dupuis-Romeo-27-H-Comptable-5 
+SIO2 - SUCCES : Repertoire cree Lecomte-Jacinthe-81-F-Notaire-60 
+SIO2 - SUCCES : Repertoire premier doublon cree Royer-Lea-51-F-Libraire-19 
+SIO2 - SUCCES : Repertoire cree Deschamps-Wladimir-53-H-Agriculteur-973 
+SIO2 - SUCCES : Repertoire cree Lambert-Gaspard-86-H-Pharmacien-972 
+SIO2 - SUCCES : Repertoire cree Durand-Philemon-56-H-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Bourgeois-Urbain-37-H-Technico-commercial-89 
+SIO2 - SUCCES : Repertoire cree Jacquet-Iris-89-F-Horticulteur-88 
+SIO2 - SUCCES : Repertoire cree Renard-Sylvaine-71-F-Chercheur-22 
+SIO2 - SUCCES : Repertoire cree Garcia-Eve-53-F-Infirmier-87 
+SIO2 - SUCCES : Repertoire cree Marchand-Eugenie-86-F-Puericultrice-22 
+SIO2 - SUCCES : Repertoire premier doublon cree Blanc-Eve-43-F-Vendeur-87 
+SIO2 - SUCCES : Repertoire cree Moulin-Sylvaine-54-F-Policier-69 
+SIO2 - SUCCES : Repertoire premier doublon cree Rodriguez-Hortense-42-F-Restaurateur-20 
+SIO2 - SUCCES : Repertoire cree Lecomte-Tania-75-F-Traducteur-58 
+SIO2 - SUCCES : Repertoire cree Dufour-Blandine-70-F-Comptable-74 
+SIO2 - SUCCES : Repertoire cree Dupont-Iris-31-F-Directeur-82 
+SIO2 - SUCCES : Repertoire cree Masson-Seraphin-53-H-Sapeur-pompier-44 
+SIO2 - SUCCES : Repertoire cree Leroux-Myrtille-53-F-Agriculteur-82 
+SIO2 - SUCCES : Repertoire cree Barbier-Oscar-23-H-Botaniste-86 
+SIO2 - SUCCES : Repertoire cree Legrand-Xavier-34-H-Puericultrice-20 
+SIO2 - SUCCES : Repertoire cree Moulin-Hortense-30-F-Ingenieur-88 
+SIO2 - SUCCES : Repertoire cree Charpentier-Axel-84-H-Veterinaire-28 
+SIO2 - SUCCES : Repertoire cree Henry-Barnabe-34-H-Ornithologue-94 
+SIO2 - SUCCES : Repertoire cree Renard-Zephirin-67-H-Chercheur-20 
+SIO2 - SUCCES : Repertoire cree Barbier-Gwendoline-83-F-Psychologue-76 
+SIO2 - SUCCES : Repertoire cree Marchand-Xavier-45-H-Photographe-8 
+SIO2 - SUCCES : Repertoire cree Brunet-Axel-61-H-Ingenieur-58 
+SIO2 - SUCCES : Repertoire cree Fernandez-Seraphin-39-H-Restaurateur-53 
+SIO2 - SUCCES : Repertoire cree Garcia-Eleonore-59-F-Horticulteur-5 
+SIO2 - SUCCES : Repertoire cree Dufour-Clovis-77-H-Directeur-51 
+SIO2 - SUCCES : Repertoire cree Henry-Ernestine-68-F-Policier-2 
+SIO2 - SUCCES : Repertoire cree Marchand-Hortense-56-F-Sociologue-89 
+SIO2 - SUCCES : Repertoire cree Leroux-Dimitri-45-H-Geologue-78 
+SIO2 - SUCCES : Repertoire cree Charpentier-Philemon-71-H-Directeur-44 
+SIO2 - SUCCES : Repertoire premier doublon cree Jacquet-Karine-45-F-Libraire-9 
+SIO2 - SUCCES : Repertoire cree Gaillard-Ernestine-77-F-Electrotechnicien-68 
+SIO2 - SUCCES : Repertoire cree Leroy-Theodore-49-H-Journaliste-51 
+SIO2 - SUCCES : Repertoire cree Perrot-Alice-25-F-Sociologue-30 
+SIO2 - SUCCES : Repertoire premier doublon cree Dupuis-Anselme-26-H-Technico-commercial-974 
+SIO2 - SUCCES : Repertoire cree Masson-Gwendoline-16-F-Etudiant-18 
+SIO2 - SUCCES : Repertoire premier doublon cree Meunier-Romeo-89-H-Comptable-67 
+SIO2 - SUCCES : Repertoire cree Berger-Yolande-24-F-Traducteur-84 
+SIO2 - SUCCES : Repertoire premier doublon cree Duval-Rosalie-61-F-Pediatre-62 
+SIO2 - SUCCES : Repertoire cree Lecomte-Gaspard-57-H-Sapeur-pompier-17 
+SIO2 - SUCCES : Repertoire cree Fabre-Emile-68-H-Ornithologue-3 
+SIO2 - SUCCES : Repertoire premier doublon cree Caron-Emile-20-H-Oceanologue-972 
+SIO2 - SUCCES : Repertoire cree Fabre-Dimitri-84-H-Vendeur-88 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Eleonore-22-F-Documentaliste-80 
+SIO2 - SUCCES : Repertoire cree Berger-Violette-54-F-Ingenieur-84 
+SIO2 - SUCCES : Repertoire cree Perrin-Ines-45-F-Oceanologue-22 
+SIO2 - SUCCES : Repertoire cree Deschamps-Clovis-70-H-Pediatre-67 
+SIO2 - SUCCES : Repertoire cree Gaillard-Clovis-87-H-Forestier-16 
+SIO2 - SUCCES : Repertoire cree Roussel-Ursula-55-F-Horticulteur-12 
+SIO2 - SUCCES : Repertoire cree Schmitt-Zephirin-73-H-Technicien-39 
+SIO2 - SUCCES : Repertoire premier doublon cree Collet-Eleonore-62-F-Enseignant-92 
+SIO2 - SUCCES : Repertoire deuxieme doublon cree Duval-Rosalie-60-F-Ophtalmologue-52 
+SIO2 - SUCCES : Repertoire cree Dufour-Marin-60-H-Libraire-22 
+SIO2 - SUCCES : Repertoire premier doublon cree Aubert-Ernestine-60-F-Sociologue-82 
+SIO2 - SUCCES : Repertoire cree Brunet-Marin-79-H-Sage-femme-78 
+SIO2 - SUCCES : Repertoire cree Blanc-Gwendoline-26-F-Viticulteur-66 
+SIO2 - SUCCES : Repertoire cree Blanc-Clovis-17-H-Etudiant-59 
+SIO2 - SUCCES : Repertoire cree Mercier-Emile-16-H-Etudiant-59 
+SIO2 - SUCCES : Repertoire premier doublon cree Berger-Sylvaine-16-F-Etudiante-59 
+SIO2 - SUCCES : Repertoire cree Vasseur-Ursula-24-F-Webmaster-973 
+SIO2 - SUCCES : Repertoire cree Fernandez-Arlette-77-F-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Dubois-Loup-77-H-Oceanologue-21 
+SIO2 - SUCCES : Repertoire cree Gonzalez-Violette-16-F-Etudiant-79 
+SIO2 - SUCCES : Repertoire cree Dubois-Eugenie-54-F-Game-designer 
+SIO2 - SUCCES : Repertoire cree Mercier-Philemon-51-H-Notaire-57 
+SIO2 - SUCCES : Repertoire cree Rousseau-Yvon-86-H-Redacteur-82 
+SIO2 - SUCCES : Repertoire premier doublon cree Rousseau-Nadette-62-F-Reporter-92 
+SIO2 - SUCCES : Repertoire cree Mercier-Felicien-90-H-Radiologue-66 
+SIO2 - SUCCES : Repertoire cree Duval-Loup-73-H-Viticulteur-26 
+SIO2 - SUCCES : Repertoire cree Legrand-Sylvaine-22-F-Ornithologue-974 
+SIO2 - SUCCES : Repertoire cree Fournier-Ursula-27-F-Maître-nageur 
+SIO2 - SUCCES : Repertoire cree Gaillard-Gwendoline-46-F-Juge-64 
+SIO2 - SUCCES : Repertoire premier doublon cree Moreau-Ernestine-37-F-Instituteur-92 
+SIO2 - SUCCES : Repertoire cree Durand-Kevin-30-H-Radiologue-48 
+SIO2 - SUCCES : Repertoire cree Meunier-Seraphin-52-H-Restaurateur-60 
+SIO2 - SUCCES : Repertoire cree Aubert-Clementine-39-F-Technico-commercial-48 
+SIO2 - SUCCES : Repertoire cree Aubert-Kevin-44-H-Chercheur-73 
+SIO2 - SUCCES : Repertoire cree Sanchez-Hortense-18-F-Etudiant-19 
+SIO2 - SUCCES : Repertoire cree Charpentier-Pâquerette-83-F-Horticulteur-58 
+===============FIN LOGS=============== 
+===16-10-2019===19:43:52=== 
+Repertoire 'Users' effacer le 16-10-2019 a 19:43:52 
+===============FIN LOGS=============== 
